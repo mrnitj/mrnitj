@@ -33,4 +33,3 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mrnitj)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrnitj&" alt="mrnitj" /></p>
