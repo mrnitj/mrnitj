@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **track back**
 
-- 🌱 I’m currently learning **NEXt JS**
+- 🌱 I’m currently learning **NEXT Js**
 
 - 👯 I’m looking to collaborate on **open sources**
 
