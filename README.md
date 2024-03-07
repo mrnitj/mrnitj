@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mrnitj](https://github.com/mrnitj)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React js,Redux**
+- 💬 Ask me about **HTML, CSS, JavaScript, React js, Redux**
 
 - 📫 How to reach me **nithinraj8812@gmail.com
 **
