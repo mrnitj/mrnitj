@@ -16,8 +16,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React js, Redux**
 
-- 📫 How to reach me **nithinraj8812@gmail.com
-**
+- 📫 How to reach me **nithinraj8812@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
