@@ -18,6 +18,8 @@
 
 - 📫 How to reach me **nithinraj8812@gmail.com**
 
+- 📫 [Resume] (https://github.com/mrnitj/mrnitj/edit/main/assets/nithinraj_cv.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
